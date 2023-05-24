@@ -10,6 +10,9 @@
 
 <section id="content">
 	<h3>Home2 개발 완료시킴!!</h3>
+	<h3>Home2 2번째 개선중!!!</h3>
+	<h3>Home2 2번째 개선중!!!</h3>
+	
 
 </section>
 
